@@ -1,0 +1,14 @@
+{
+  "name": "node-xlsx",
+  "version": "1.0.0",
+  "description": "node操作xlsx文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cosyer",
+  "license": "ISC",
+  "dependencies": {
+    "node-xlsx": "^0.12.1"
+  }
+}
